@@ -1,39 +1,24 @@
-👥 WhoAmI
-
-I'm a **Security Operations Engineer** with over five years of hands-on experience in IT and cybersecurity. I specialize in defending systems and networks against modern threats through a combination of technical expertise, operational best practices, and a strategic approach to threat detection and response.
-
+# 💫 About Me:
+I’m a Cybersecurity Analyst with a solid foundation in IT operations and a growing track record in threat detection, vulnerability management, and cloud-based security. I’ve worked across various environments from configuring SIEM solutions to building out small-scale SOC setups at home, and I’m constantly expanding my skills in Microsoft security tools, automation, and threat response.<br><br><br>🚨 **Key Strengths and Experience**<br><br>* 🧠 **Threat Detection & Response**: Hands-on with incident triage, investigation, and remediation using tools like Microsoft Sentinel, Wazuh, and Defender for Endpoint. Skilled in analyzing alerts, identifying false positives, and following through with root cause analysis.<br>* 🔐 **Identity & Endpoint Security**: Experience using Intune for device compliance, AV deployment, and patch automation. Familiar with managing MDM policies and conditional access in Azure AD.<br>* 🛠️ **SIEM & SOAR Integration**: Built detections using KQL in Sentinel, connected third-party data sources, and explored automation with tools like TheHive and Shuffle.<br>* 📡 **Threat Intelligence & Phishing Analysis**: Comfortable pivoting on IOCs, analyzing suspicious command-line behavior, reviewing logs, and correlating with MITRE ATT&CK techniques.<br>* 🧰 **Lab Projects**: Built and maintained a home lab simulating a SOC environment using Wazuh, Linux/Windows agents, remote execution capabilities, and log correlation.<br>* 📁 **Active Directory & Infrastructure Security**: Experience setting up AD, managing user roles, and integrating private mail servers within a secure domain environment.<br><br><br>🧾 **Technical Skills**<br><br>* **Operating Systems**: Windows, Linux (Ubuntu, Kali)<br>* **Cloud & Identity**: Microsoft Azure, Azure AD, Intune, Microsoft Defender XDR<br>* **Security Tools**: Sentinel, Wazuh, Splunk (introductory), Velociraptor, Wireshark, Sysmon, TheHive, Shuffle<br>* **Scripting**: PowerShell, Bash (basic)<br>* **Frameworks**: MITRE ATT\&CK, NIST CSF, CIS Controls<br>* **Domains**: Threat Hunting, Vulnerability Management, Cloud Security, Incident Response<br><br>📜 **Certifications**<br><br>* CompTIA Security+ ✅<br>* Microsoft Certified: AZ-900 (Azure Fundamentals) ✅<br>* Microsoft Certified: AZ-500 (Azure Security Engineer Associate)  *In Progress*<br>* SC-200: Security Operations Analyst – *In Progress*<br><br><br>📣 **Let’s Connect**<br><br>I’m looking to join a security team where I can apply my hands-on experience, continue developing my detection and response skills, and contribute to meaningful cyber defense work. If you're hiring or working on something interesting in the SOC or cloud security space—I'd love to hear about it.<br><br>📬 **Email**: [davidtolu110@gmail.com](mailto:davidtolu110@gmail.com)<br>
 
 
-🚀 Professional Highlights
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-i-422048238/) 
 
-* 🔍 Led security operations initiatives, improving cyber resilience through risk assessments aligned with **NIST frameworks**.
-* ⚙️ Built and optimized **incident response processes**, integrating automation to reduce MTTR using **SIEM** and **SOAR** tools.
-* 🔐 Worked extensively with **Microsoft Sentinel**, **Microsoft Defender for Cloud**, and **Azure AD Identity Protection** for log monitoring and identity security.
-* 📊 Deployed and managed **Splunk** to enhance threat detection and integrated it with **TheHive** and **Shuffle** for automation.
-* 🖧 Maintained critical infrastructure, including **Windows Server** environments and **Active Directory**, improving uptime and operational efficiency.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tee-Code1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tee-Code1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tee-Code1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tee-Code1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🔧 Technical Skills
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tee-Code1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-* **Operating Systems**: Windows, Linux
-* **Network Security**: Firewalls, IDS/IPS, Microsoft Defender, VPNs
-* **Scripting**: PowerShell, Bash
-* **Security Tools**: Microsoft Sentinel, Splunk, Wazuh, Velociraptor, Wireshark, Microsoft XDR
-* **Frameworks & Standards**: MITRE ATT\&CK, NIST, CIS, PCI DSS, HIPAA
-* **Core Skills**: Threat Intelligence, Vulnerability Management, Incident Response, Phishing Analysis, Cloud Security, Active Directory
+---
+[![](https://visitcount.itsvg.in/api?id=Tee-Code1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-🏆 Certifications & Training
-
-* Microsoft Certified: **SC-200** (Security Operations Analyst) IN PROGRESS
-* Microsoft Certified: **AZ-900** ( Azure Fundamentals)
-* **CompTIA Security+**
-* Microsoft Certified: **AZ-500** (Azure Security Engineer Associate)
-
-
-## 🔐 Open to Opportunities
-
-I'm actively seeking to join a collaborative, security-focused team where I can continue to grow and contribute to strengthening cyber defenses. If you’re building something meaningful in security, let’s talk.
-
-📫 **Email**: [davidtolu110@gmail.com](mailto:davidtolu110@gmail.com)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
